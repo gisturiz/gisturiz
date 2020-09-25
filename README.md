@@ -3,7 +3,7 @@
 My name is Gustavo
 
 - 🔭 I’m currently working on an open-source ventilator registry for hospital networks.
-- 🌱 I’m currently learning AI & machine learning.
+- 📚 I’m currently AWS cloud certified and working on obtain more certifications.
 - 👯 I’m looking to collaborate on any meaninful project. Please get in touch!
 - 📫 How to reach me: isturizgustavo@gmail.com
 
