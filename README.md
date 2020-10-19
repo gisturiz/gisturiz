@@ -2,9 +2,9 @@
 
 My name is Gustavo
 
-- 🔭 I’m currently working on an open-source ventilator registry for hospital networks.
-- 📚 I’m currently AWS Cloud Certified and working on obtaining more certifications.
-- 👯 I’m looking to collaborate on any meaninful project. Please get in touch!
+- ☁️ I’m a Customer Solutions Manager at Amazon AWS.
+- 🔭 I’m created an open-source ventilator registry so hospital networks could better cope with COVID-19.
+- 🪐 I’m always looking to collaborate on any meaninful project. Please get in touch!
 - 📫 How to reach me: isturizgustavo@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gisturiz)](https://github.com/anuraghazra/github-readme-stats)
