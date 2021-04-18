@@ -4,7 +4,7 @@ My name is Gustavo
 
 - ☁️ I’m a Customer Solutions Manager at Amazon AWS.
 - 🔭 I created an open-source ventilator registry so hospital networks could better cope with COVID-19.
-- ☁️ 4x AWS Certified
+- 🏅 4x AWS Certified
 - 🪐 Always looking to collaborate on fun projects.
 - 🤖 Currently learning about buidling ML & AI services on the cloud.
 - 📫 Reach me here 👉 isturizgustavo@gmail.com
