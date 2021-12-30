@@ -2,7 +2,7 @@
 
 My name is Gustavo
 
-- ☁️ I’m a Technical Manager at Amazon.
+- ☁️ I’m a Technical Manager at Coinbase.
 - 🔭 I created an open-source ventilator registry so hospital networks could better cope with COVID-19.
 - 🏅 5x AWS Certified - Solutions Architect Professional
 - 🪐 Always looking to collaborate on fun projects.
